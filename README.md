@@ -3,7 +3,7 @@
 #### Top Technologies:
 
 [![JAVA Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#)
-[![R Badge](https://img.shields.io/badge/-R%20Programming-4f9d3e?style=for-the-badge&labelColor=blue&logo=R&logoColor=black&color=lightblue](#)
+[![R Badge](https://img.shields.io/badge/-R%20Programming-black?style=for-the-badge&labelColor=blue&logo=R&logoColor=black&color=lightblue)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-4f9d3e?style=for-the-badge&labelColor=black&logo=node&logoColor=F0DB4F)](#)
