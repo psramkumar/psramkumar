@@ -34,3 +34,7 @@
 <br />
 
 ---
+<br/> <br/>
+
+[![Ramkumar's github stats](https://github-readme-stats.vercel.app/api?username=psramkumar&show_icons=true&count_private=true&&hide=prs)](https://triadic.net)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psramkumar&layout=compact)](https://triadic.net)
